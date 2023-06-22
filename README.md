@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yedidya Harris
-- 🌱 I’m currently learning Plants Science and AgroInformatics
+- 🌱 I’m currently focused on Remote Sensing of Agriculture.
 - 📫 Working on a few precision agriculture projects. 
 - AI: Solving agricultural and environmental problems using computer vision (CV) is my passion.
 
