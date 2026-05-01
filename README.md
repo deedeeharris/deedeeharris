@@ -26,17 +26,16 @@
 
 **🛰️ Distance & Remote Sensing**
 * Processing, calibrating, and analyzing thermal sensor data and remote spatial imagery.
-* Developing advanced data pipelines for drone telemetry and complex environmental spatial analysis.
 * Translating physical spatial metrics and thermal arrays into structured, actionable machine learning datasets.
 
 ---
 
 ### 💻 Tech Stack & Tools
 
-* **Languages:** Python (Architect Level), Bash, JavaScript
+* **Languages:** Python, Bash, JavaScript
 * **AI/GenAI:** LLM Orchestration, Multi-Agent Frameworks, AI Audio/Media Generation APIs
-* **Hardware/IoT:** NVIDIA Jetson, Raspberry Pi (Zero 2 W), Drone Telemetry, Custom Electronics
-* **Data & Remote Sensing:** Computer Vision, Thermal Image Processing, Spatial Data Pipelines
+* **Hardware/IoT:** NVIDIA Jetson, Raspberry Pi, Custom Electronics
+* **Data & Remote Sensing:** Computer Vision, Thermal Image Processing
 * **Architecture:** Factory Pattern, Microservices, Workflow Automation, DevOps 
 
 ---
@@ -53,5 +52,5 @@
 <p align="center">
   <a href="#"><b>LinkedIn</b></a> • 
   <a href="#"><b>Website</b></a> • 
-  <a href="mailto:your-email@example.com"><b>Email</b></a>
+  <a href="mailto: deedeeharris@gmail.com"><b>Email</b></a>
 </p>
