@@ -2,7 +2,7 @@
 <h3 align="center">AI Systems Architect | GenAI Developer | IoT Specialist | Automation Engineer</h3>
 
 <p align="center">
-  I specialize in building scalable, autonomous engines. My engineering philosophy revolves around the <strong>Factory Pattern</strong>—I don't just write scripts; I build robust pipelines that generate solutions autonomously. I bridge the gap between high-level AI orchestration, robust backend automation, and physical edge devices.
+  I specialize in building scalable, autonomous engines. My engineering philosophy revolves around the <strong>Factory Pattern</strong>. I don't just write scripts; I build robust pipelines that generate solutions autonomously. I bridge the gap between high-level AI orchestration, robust backend automation, and physical edge devices.
 </p>
 
 ---
